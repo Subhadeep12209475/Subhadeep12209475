@@ -1,11 +1,11 @@
-Hi there 👋, I'm Subho Mukherjee!
-🚀 A curious mind blending technology and healthcare.
-🎓 B.Tech in Computer Science | 🩺 GNM Nursing Graduate | 📊 Data Analyst
+Hi there 👋, I'm Subhadeep Mukherjee!
+🚀 A curious mind blending technology 
+🎓 B.Tech in Computer Science || 📊 Data Analyst
 
 🌟 Skills: Python, R, SQL, Machine Learning, Data Visualization
 
 💡 My Story:
-I started my journey in but my passion for technology and problem-solving led me to pursue a degree in computer science. Now, I combine my love for data and Math to create impactful solutions.
+I started my journey in Math but my passion for technology and problem-solving led me to pursue a degree in computer science. Now, I combine my love for data and Math to create impactful solutions.
 
 🎯 What I'm Working On:
 
