@@ -1,34 +1,22 @@
 Hi there 👋, I'm Subhadeep Mukherjee!
-🚀 A curious mind blending technology 
-🎓 B.Tech in Computer Science || 📊 Data Analyst
+🚀 Tech Enthusiast | Problem Solver | Data Analyst
+🎓 B.Tech in Computer Science
 
-🌟 Skills: Python, R, SQL, Machine Learning, Data Visualization
+🌟 Skills & Expertise
+Programming: Python, R, SQL
+Data Science: Machine Learning, Data Visualization, Predictive Analytics
+Tools: Tableau, Power BI, Jupyter Notebook
+💡 My Journey
+From exploring the elegance of mathematics to mastering the art of coding, my journey has been fueled by curiosity and a passion for problem-solving. Today, I leverage data and technology to craft solutions that drive impact and innovation.
 
-💡 My Story:
-I started my journey in Math but my passion for technology and problem-solving led me to pursue a degree in computer science. Now, I combine my love for data and Math to create impactful solutions.
+🎯 What I'm Currently Working On
+Developing machine learning models for predictive analytics.
+Designing interactive dashboards to uncover actionable insights.
+Enhancing my skills in AI and cloud technologies.
 
-🎯 What I'm Working On:
-
-Building machine learning models to analyze data.
-Exploring data visualization techniques for Analysis insights.
-🌈 Outside of Work:
-When I’m not crunching numbers or coding, you’ll find me exploring new hiking trails, experimenting with photography, or playing the guitar.
-
-🔗 [Portfolio](https://subhadeep-mukherjee.my.canva.site/subhadeep-mukherjee) | [LinkedIn](https://www.linkedin.com/in/subhadeep-mukherjee-1b9343259/recent-activity/all/) | [DEV To](https://dev.to/subhadeep12209475)
-
-⚡ Fun Fact: I once built a data dashboard for a community health initiative that improved patient outcomes by 15%!
-
-<!--
-**Subhadeep12209475/Subhadeep12209475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Let’s Connect
+[Portfolio](https://subhadeep-mukherjee.my.canva.site/subhadeep-mukherjee)
+[LinkedIn](https://www.linkedin.com/in/subhadeep-mukherjee-1b9343259/recent-activity/all/)
+[DEV.to](https://dev.to/subhadeep12209475)
+⚡ Fun Fact
+I once built a data visualization tool that boosted decision-making efficiency for a startup by 20%!
