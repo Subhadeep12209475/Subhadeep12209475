@@ -18,5 +18,6 @@ Enhancing my skills in AI and cloud technologies.
 [Portfolio](https://subhadeep-mukherjee.my.canva.site/subhadeep-mukherjee)
 [LinkedIn](https://www.linkedin.com/in/subhadeep-mukherjee-1b9343259/recent-activity/all/)
 [DEV.to](https://dev.to/subhadeep12209475)
+
 ⚡ Fun Fact
 I once built a data visualization tool that boosted decision-making efficiency for a startup by 20%!
