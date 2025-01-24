@@ -15,8 +15,8 @@ Designing interactive dashboards to uncover actionable insights.
 Enhancing my skills in AI and cloud technologies.
 
 🔗 Let’s Connect
-[Portfolio](https://subhadeep-mukherjee.my.canva.site/subhadeep-mukherjee)
-[LinkedIn](https://www.linkedin.com/in/subhadeep-mukherjee-1b9343259/recent-activity/all/)
+[Portfolio](https://subhadeep-mukherjee.my.canva.site/subhadeep-mukherjee)  ||
+[LinkedIn](https://www.linkedin.com/in/subhadeep-mukherjee-1b9343259/recent-activity/all/)   ||
 [DEV.to](https://dev.to/subhadeep12209475)
 
 ⚡ Fun Fact
