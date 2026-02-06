@@ -1,6 +1,6 @@
 <!-- ===================== ANIMATED BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Subhadeep%20Mukherjee&fontAlignY=35&fontSize=42&animation=fadeIn&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20Backend%20Engineer&descAlignY=55"/>
+  <img src="banner.png" alt="Subhadeep Mukherjee Banner" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
