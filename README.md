@@ -83,6 +83,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%"/>
 
+
+## 🌊 Language Proficiency
+
+Python  
+<img src="https://img.shields.io/badge/█████████░-90%25-blue?style=for-the-badge" />
+
+Java  
+<img src="https://img.shields.io/badge/████████░░-80%25-green?style=for-the-badge" />
+
+C++  
+<img src="https://img.shields.io/badge/███████░░░-70%25-orange?style=for-the-badge" />
+
+SQL  
+<img src="https://img.shields.io/badge/█████████░-90%25-purple?style=for-the-badge" />
+
+JavaScript  
+<img src="https://img.shields.io/badge/████████░░-80%25-yellow?style=for-the-badge" />
+
+
 ## 🚀 Featured Projects (Animated Cards)
 
 <table>
@@ -153,25 +172,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%"/>
 
-## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhadeep12209475&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep12209475&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadeep12209475&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%"/>
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhadeep12209475&theme=onedark&no-frame=true&row=1"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%"/>
 
 ## 🔗 Connect With Me
 <p align="center">
