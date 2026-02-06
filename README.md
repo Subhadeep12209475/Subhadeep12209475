@@ -1,6 +1,6 @@
 <!-- ===================== ANIMATED BANNER ===================== -->
 <p align="center">
-  <img src="banner.png" alt="Subhadeep Mukherjee Banner" />
+  <img src="banne1r.png" alt="Subhadeep Mukherjee Banner" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
