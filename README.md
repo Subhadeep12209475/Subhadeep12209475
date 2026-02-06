@@ -1,110 +1,117 @@
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=200&section=header&text=Subhadeep%20Mukherjee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Subhadeep%20Mukherjee&fontAlignY=35&fontSize=42&animation=fadeIn&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20Backend%20Engineer&descAlignY=55"/>
 </p>
 
-<h3 align="center">
-Data Analyst | Aspiring Data Scientist | ML & Backend Enthusiast
-</h3>
-
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-🎓 B.Tech in Computer Science • 📊 Data-Driven • 🚀 Problem Solver
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+ML+Models+that+Matter;Designing+Scalable+Backend+Systems;Learning+Every+Day+🚀"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔍 Passionate about **Data Analysis & Machine Learning**
-- 📈 Love turning raw data into actionable insights
-- ☁️ Exploring **AI, ML & Cloud (AWS)**
-- 🧠 Strong in logic, analytics & backend systems
+
+🎓 **B.Tech in Computer Science**  
+📊 Passionate about **Data Analysis, Machine Learning & Backend Systems**  
+🧠 I enjoy solving real-world problems using **data, logic, and clean code**
+
+- 🔍 Strong in analytics & visualization  
+- 🤖 Hands-on with ML & EDA  
+- ⚙️ Backend APIs & databases  
+- ☁️ Exploring Cloud (AWS)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,r,sql,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,javascript" />
 </p>
 
 ### 📊 Data & Analytics
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,tableau" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,aws" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📰 Fake News Detection System
-✔ ML-powered text classification  
-✔ Full-stack architecture  
-✔ Real-world dataset  
+### 📰 Fake News Detection (ML)
+🔹 NLP-based classification  
+🔹 Real-world dataset  
+🔹 Accuracy ~92%
 
-**Tech:** Python, ML, JavaScript  
-🔗 Repos: `FAKE-NEWS-FE` | `FAKE-NEWS-BE`
+**Tech:** Python, Scikit-learn  
+🔗 `fake-news-detection-ml`
 
 ---
 
-### 🛒 Shopping Web Application
-✔ Authentication (Login/Signup)  
-✔ Cart, Orders, Profile  
-✔ Modern UI & Backend APIs  
+### 🛒 Shopping Web Application (Full Stack)
+🔹 Auth, Cart, Orders  
+🔹 REST APIs  
+🔹 Clean architecture
 
 **Tech:** React, Node.js, MongoDB  
-🔗 Repos: `SHOPPING_APP_FE` | `SHOPPING-APP-BE`
+🔗 `shopping-app-fullstack`
 
 ---
 
 ### ☁️ AWS Solar Radiation Monitoring
-✔ IoT-based real-time data  
-✔ AWS cloud analytics  
-✔ Dashboard visualization  
+🔹 IoT-based data collection  
+🔹 AWS cloud analytics  
+🔹 Real-time insights
 
-**Tech:** AWS, Python, IoT  
-🔗 Repo: `AWS-Project`
+**Tech:** AWS, Python  
+🔗 `aws-solar-radiation-monitoring`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Subhadeep12209475&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep12209475&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhadeep12209475&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep12209475&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Subhadeep12209475&theme=radical&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhadeep12209475&theme=onedark&no-frame=true&row=1"/>
 </p>
 
 ---
 
 ## 🔗 Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+  <a href="https://www.linkedin.com/in/subhadeep-22s/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Consistent learning | Consistent building ⭐
+  ⭐ Consistent Learning | Consistent Building ⭐
 </p>
 
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
